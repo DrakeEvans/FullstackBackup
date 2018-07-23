@@ -61,6 +61,9 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 * Pre-Work: [📺 Computer Science Fundamentals](https://www.youtube.com/watch?v=5pmSAEeMsfo)
 * [📺 Memory, Stacks, Queues](https://youtu.be/r1Cle6Suoww)
 * [📺 Linked Lists](https://youtu.be/NU7aeEc1X38)
+* [📺 Linked Lists - REVIEW](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmR3kE0iA2eIYNS_beMg8ti)
+* [📺 Binary Search Trees ](https://www.youtube.com/watch?v=glmk3dSC_b8)
+* [📺 Binary Search Trees - REVIEW ](https://www.youtube.com/playlist?list=PLx0iOsdUOUmkvOhyAm1NUJ023D8PyaD-B)
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
