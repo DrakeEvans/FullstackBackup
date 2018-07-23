@@ -59,6 +59,8 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 ##### Data Structures & Abstract Data Types
 
 * Pre-Work: [📺 Computer Science Fundamentals](https://www.youtube.com/watch?v=5pmSAEeMsfo)
+* [📺 Memory, Stacks, Queues](https://youtu.be/r1Cle6Suoww)
+* [📺 Linked Lists](https://youtu.be/NU7aeEc1X38)
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
