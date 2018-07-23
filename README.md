@@ -1,4 +1,4 @@
-# 📚 1807-GH-NY-Library
+# 📚 1807-FSA-NY-Library
 Lectures, slides, workshop solutions, and other goodies!
 
 ## 🛠️ Helpful Resources/Links
@@ -17,7 +17,8 @@ Lectures, slides, workshop solutions, and other goodies!
 
 ## 🥚 Foundations
 
-<details><summary>Click to Open</summary>
+<details>
+<summary>Click to Open</summary>
 
 ### Fullstack Test First Solution Videos
 
@@ -34,7 +35,8 @@ Lectures, slides, workshop solutions, and other goodies!
 
 ## CS Saturday
 
-<details><summary>Click to Open</summary>
+<details>
+<summary>Click to Open</summary>
 
 Coming soon!
 
@@ -47,7 +49,6 @@ Coming soon!
 <!--* [📺 Orientation](https://youtu.be/rKcrLXQH4Lk)-->
 <!--* [📺 Junior Phase tools/intro](https://youtu.be/jMeszg4C_YY)-->
 <!--* [📺 Lecture Playlist!](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmjiVfw1_3SXAMvECArx9V2)-->
-
 
 ### Week 1
 
