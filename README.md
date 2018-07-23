@@ -65,13 +65,6 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 * [📺 Binary Search Trees ](https://www.youtube.com/watch?v=glmk3dSC_b8)
 * [📺 Binary Search Trees - REVIEW ](https://www.youtube.com/playlist?list=PLx0iOsdUOUmkvOhyAm1NUJ023D8PyaD-B)
 
-Topic | Lecture | Slides | Solution | Review
-------|---------|--------|----------|-------
-Stacks, Queues, DSs, ADTs | - | - | — | —
-Linked Lists | - | - | - | -
-Binary Search Trees | - | - | - | -
-Hash Tables | - | — | — | —
-
 * Homework
   * Review the solution videos / code
   * [📺 Hash Table lecture][ds-4a]
