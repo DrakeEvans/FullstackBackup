@@ -73,3 +73,21 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
   * Implement stacks & queues using your linked list.
 
 [ds-4a]: https://youtu.be/_ly0_BpLJdk
+
+#### Day 2
+
+##### HTML, CSS, Boxing, and Flexbox
+
+* Lectures
+  * [📺 HTML & CSS Basics](https://www.youtube.com/watch?v=LbWGvKB3APk)
+  * [📺 Box Model & Boxing](https://www.youtube.com/watch?v=ydZguE-n4zw)
+  * [📺 Flexbox & CSS Demo](https://www.youtube.com/watch?v=AZ2rTdOTsOY)
+* Code
+  * [👩‍💻 CSS Demo](01-junior/02-html-css/css_lecture)
+* Resources / Readings
+  * [📖 Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* Homework
+  * [🎮 Flexbox Froggy](https://flexboxfroggy.com/)
+  * [🎮 Flexbox Defense](http://www.flexboxdefense.com/)
+  * [🎮 Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+  * [🎮 Grid Garden](https://cssgridgarden.com/)
