@@ -104,6 +104,11 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 * [📺 Git Lecture - Part 2](https://youtu.be/UcIw-xfZYIY)
 * [🎮 Git Workshop](https://git.fullstackacademy.com)
 
+##### Debugging
+
+* [📺 Debugging Part 1: Prevention](https://youtu.be/26D0eeJjXaM)
+* [📺 Debugging Part 2: Detection, Diagnosis, Fixing](https://youtu.be/lakU1wSMwVM)
+
 ##### Homework
 
 | 			    | Assets        		 | Time  |
