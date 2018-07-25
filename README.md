@@ -103,3 +103,9 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 * [📺 Git Lecture - Part 1](https://youtu.be/HKeVwq9z1qc)
 * [📺 Git Lecture - Part 2](https://youtu.be/UcIw-xfZYIY)
 * [🎮 Git Workshop](https://git.fullstackacademy.com)
+
+##### Homework
+
+| 			    | Assets        		 | Time  |
+| ------------- |:---------------------: | -----:|
+| Debugging JavaScript Applications  | [Reading](https://github.com/FullstackAcademy/1802-FSA-RM-Library/blob/master/01-junior/03-Collaboration/JavascriptDebugging.md)	    	 | 		 |
