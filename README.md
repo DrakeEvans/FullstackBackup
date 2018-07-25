@@ -91,3 +91,15 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
   * [🎮 Flexbox Defense](http://www.flexboxdefense.com/)
   * [🎮 Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
   * [🎮 Grid Garden](https://cssgridgarden.com/)
+
+#### Day 3
+
+##### Pair Programming
+
+* [📺 Pair Programming Lecture](https://youtu.be/AWyHVej9p7o)
+
+##### Gitting Started
+
+* [📺 Git Lecture - Part 1](https://youtu.be/HKeVwq9z1qc)
+* [📺 Git Lecture - Part 2](https://youtu.be/UcIw-xfZYIY)
+* [🎮 Git Workshop](https://git.fullstackacademy.com)
