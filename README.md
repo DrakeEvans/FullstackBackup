@@ -113,4 +113,4 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 | 			    | Assets        		 | Time  |
 | ------------- |:---------------------: | -----:|
-| Debugging JavaScript Applications  | [Reading](https://github.com/FullstackAcademy/1802-FSA-RM-Library/blob/master/01-junior/03-Collaboration/JavascriptDebugging.md)	    	 | 		 |
+| Debugging JavaScript Applications  | [Reading](01-junior/03-pairing-git-debugging/debugging.md)	    	 | 		 |
