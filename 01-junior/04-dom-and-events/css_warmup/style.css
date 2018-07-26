@@ -1,0 +1,38 @@
+
+
+.radio-block {
+  display: flex;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+label {
+  cursor: pointer;
+  padding: 6px 12px;
+  background: #aaa;
+  box-shadow: 0 3px 8px -2px black;
+}
+
+label:not(:first-of-type) {
+  margin-left: 12px;
+}
+
+input[type="radio"]:checked + label {
+  color: white;
+  background: blue;
+}
+
+input[type="radio"] + label:hover {
+  background: steelblue;
+  box-shadow: 0 5px 24px -2px black;
+}
+
+input[type="radio"]:checked + label:hover {
+  background: darkblue;
+}
+
+input[type="radio"]:checked + label::after {
+  content: "[x]"
+}
