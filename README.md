@@ -114,3 +114,20 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 | 			    | Assets        		 | Time  |
 | ------------- |:---------------------: | -----:|
 | Debugging JavaScript Applications  | [Reading](01-junior/03-pairing-git-debugging/debugging.md)	    	 | 		 |
+
+#### Day 4
+
+##### (Bonus) CSS, The DOM - Selectors & Nodes, The DOM - Events
+
+* Lectures
+  * [📺 DOM Selectors, Nodes](https://www.youtube.com/watch?v=gfoA0l_B8x4)
+  * [📺 DOM Events](https://www.youtube.com/watch?v=6UZHA6rhsEk)
+* Code
+  * [👩‍💻 CSS Demo](01-junior/04-dom-and-events/css_warmup)
+  * [👩‍💻 CSS Demo](01-junior/04-dom-and-events/events)
+* Resources / Readings
+
+* Homework
+  * [💻 Selector.js Lab](https://learn.fullstackacademy.com/workshop/5a7a29369cdac30004ec4f86/landing)
+  * [📺 Selector.js Review Video](https://www.youtube.com/watch?v=vUcbywLzQS4)
+  * [📺 Pixelate Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-)
