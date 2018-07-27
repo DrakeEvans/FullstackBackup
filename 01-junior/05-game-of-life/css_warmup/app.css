@@ -75,12 +75,10 @@ article > p:first-child {
   padding: 12px;
   top: 50vh;
   left: 50vw;
-  transform: translate(100vw, 100vh);
+  transform: translate(-50%, 100vh);
   transition: transform 0.4s ease-in-out;
 }
 
 #modal.active {
-  top: 50vh;
-  left: 50vw;
   transform: translate(-50%, -50%)
 }
