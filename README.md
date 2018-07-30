@@ -167,7 +167,7 @@ Algorithms - Complexity & Sorting, Node, Express, SQL, Postgres
 ##### Algorithms! Complexity & Sorting, Server Architecture
 
 * Lectures
-  * [📺 Algorithmic Complexity](x)
+  * [📺 Algorithmic Complexity](https://www.youtube.com/watch?v=NtKqD16BpgY)
   * [📺 Client Server Architecture](x)
 * Code
   * n/a
