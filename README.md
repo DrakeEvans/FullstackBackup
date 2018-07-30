@@ -56,9 +56,9 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 #### Day 1
 
-<details>
-
 ##### Data Structures & Abstract Data Types
+
+<details>
 
 * Pre-Work: [📺 Computer Science Fundamentals](https://www.youtube.com/watch?v=5pmSAEeMsfo)
 * [📺 Memory, Stacks, Queues](https://youtu.be/r1Cle6Suoww)
@@ -80,9 +80,9 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 #### Day 2
 
-<details>
-
 ##### HTML, CSS, Boxing, and Flexbox
+
+<details>
 
 * Lectures
   * [📺 HTML & CSS Basics](https://www.youtube.com/watch?v=LbWGvKB3APk)
@@ -103,36 +103,28 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 #### Day 3
 
+##### Pair Programming, Gitting Started, and Debugging
+
 <details>
 
-##### Pair Programming
-
-* [📺 Pair Programming Lecture](https://youtu.be/AWyHVej9p7o)
-
-##### Gitting Started
-
-* [📺 Git Lecture - Part 1](https://youtu.be/HKeVwq9z1qc)
-* [📺 Git Lecture - Part 2](https://youtu.be/UcIw-xfZYIY)
-* [🎮 Git Workshop](https://git.fullstackacademy.com)
-
-##### Debugging
-
-* [📺 Debugging Part 1: Prevention](https://youtu.be/26D0eeJjXaM)
-* [📺 Debugging Part 2: Detection, Diagnosis, Fixing](https://youtu.be/lakU1wSMwVM)
-
-##### Homework
-
-| 			    | Assets        		 | Time  |
-| ------------- |:---------------------: | -----:|
-| Debugging JavaScript Applications  | [Reading](01-junior/03-pairing-git-debugging/debugging.md)	    	 | 		 |
+* Lectures
+  * [📺 Pair Programming Lecture](https://youtu.be/AWyHVej9p7o)
+  * [📺 Git Lecture - Part 1](https://youtu.be/HKeVwq9z1qc)
+  * [📺 Git Lecture - Part 2](https://youtu.be/UcIw-xfZYIY)
+  * [📺 Debugging Part 1: Prevention](https://youtu.be/26D0eeJjXaM)
+  * [📺 Debugging Part 2: Detection, Diagnosis, Fixing](https://youtu.be/lakU1wSMwVM)
+* Workshops
+  * [🎮 Git Workshop](https://git.fullstackacademy.com)
+* Homework
+  * [📖 Debugging JavaScript Applications](01-junior/03-pairing-git-debugging/debugging.md)	 
 
 </details>
 
 #### Day 4
 
-<details>
-
 ##### (Bonus) CSS, The DOM - Selectors & Nodes, The DOM - Events
+
+<details>
 
 * Lectures
   * [📺 DOM Selectors, Nodes](https://www.youtube.com/watch?v=gfoA0l_B8x4)
@@ -151,9 +143,9 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 #### Day 5
 
-<details>
-
 ##### The Game of Life
+
+<details>
 
 * Lectures
   * n/a
