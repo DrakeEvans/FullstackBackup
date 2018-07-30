@@ -40,7 +40,7 @@ Lectures, slides, workshop solutions, and other goodies!
 
 Coming soon!
 
-</details/>
+</details>
 
 ## 🐛 Junior Phase
 
@@ -55,6 +55,8 @@ Coming soon!
 Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 #### Day 1
+
+<details>
 
 ##### Data Structures & Abstract Data Types
 
@@ -74,7 +76,11 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 
 [ds-4a]: https://youtu.be/_ly0_BpLJdk
 
+</details>
+
 #### Day 2
+
+<details>
 
 ##### HTML, CSS, Boxing, and Flexbox
 
@@ -92,7 +98,12 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
   * [🎮 Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
   * [🎮 Grid Garden](https://cssgridgarden.com/)
 
+
+</details>
+
 #### Day 3
+
+<details>
 
 ##### Pair Programming
 
@@ -115,7 +126,11 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
 | ------------- |:---------------------: | -----:|
 | Debugging JavaScript Applications  | [Reading](01-junior/03-pairing-git-debugging/debugging.md)	    	 | 		 |
 
+</details>
+
 #### Day 4
+
+<details>
 
 ##### (Bonus) CSS, The DOM - Selectors & Nodes, The DOM - Events
 
@@ -131,3 +146,45 @@ Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
   * [💻 Selector.js Lab](https://learn.fullstackacademy.com/workshop/5a7a29369cdac30004ec4f86/landing)
   * [📺 Selector.js Review Video](https://www.youtube.com/watch?v=vUcbywLzQS4)
   * [📺 Pixelate Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-)
+
+</details>
+
+#### Day 5
+
+<details>
+
+##### The Game of Life
+
+* Lectures
+  * n/a
+* Code
+  * n/a
+* Resources
+  * [📺 Advanced Topics in Life -- Dakota](https://www.youtube.com/watch?v=XVM-1kgbGL8&feature=youtu.be)
+* Homework
+  * [📺 Game of Life](https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC)
+
+</details>
+
+### Week 2
+
+Algorithms - Complexity & Sorting, Node, Express, SQL, Postgres
+
+#### Day 1
+
+##### Algorithms! Complexity & Sorting, Server Architecture
+
+* Lectures
+  * [📺 Algorithmic Complexity](x)
+  * [📺 Client Server Architecture](x)
+* Code
+  * n/a
+* Resources
+  * [📺 Bubble Sort](https://www.youtube.com/watch?v=aXXWXz5rF64)
+  * [📺 Merge Sort](https://www.youtube.com/watch?v=es2T6KY45cA)
+  * [📖 Visualgo](https://visualgo.net/en)
+  * [📖 Time Complexity](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity)
+  * [📖 Logarithms](https://www.interviewcake.com/article/python/logarithms)
+* Homework
+  * [📺 Bubble Sort & Merge Sort Review](https://www.youtube.com/watch?v=Dz0NkaBp-FM)
+  * [🎧 Tech'd Out Episode 1](https://anchor.fm/techdout/episodes/1--The-Internet--Browsers--and-How-JavaScript-Became-Trendy-e1bubb)
