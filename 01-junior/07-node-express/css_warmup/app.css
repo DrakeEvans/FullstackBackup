@@ -68,6 +68,10 @@ article > p:first-child {
   margin-top: 0;
 }
 
+article > p {
+  max-width: 800px;
+}
+
 #modal-trigger {
   box-shadow: 2px 2px 12px -2px black;
   display: flex;
