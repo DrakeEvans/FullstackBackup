@@ -179,3 +179,11 @@ Algorithms - Complexity & Sorting, Node, Express, SQL, Postgres
 * Homework
   * [📺 Bubble Sort & Merge Sort Review](https://www.youtube.com/watch?v=Dz0NkaBp-FM)
   * [🎧 Tech'd Out Episode 1](https://anchor.fm/techdout/episodes/1--The-Internet--Browsers--and-How-JavaScript-Became-Trendy-e1bubb)
+
+#### Day 2
+
+##### Node Introduction & Asynchronousity
+  * [Node Lecture](https://youtu.be/q7vZb2X_7kk)
+  * [Asyncronous Code](https://youtu.be/Jg4Uwzg0gho)
+
+
