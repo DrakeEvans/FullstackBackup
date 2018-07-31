@@ -1,7 +1,7 @@
 let trigger = document.querySelector('#modal-trigger')
 let modal = document.querySelector('#modal')
 let scrim = document.querySelector('.scrim')
-let main = document.querySelector('main')
+let content = document.querySelector('.content')
 let burger = document.querySelector('.burger')
 let aside = document.querySelector('aside')
 
@@ -12,7 +12,7 @@ burger.addEventListener('click', evt => {
 
 trigger.addEventListener('click', evt => {
   scrim.classList.add('active')
-  main.classList.add('blur')
+  content.classList.add('blur')
 
   setTimeout(() => {
     modal.classList.add('active')
@@ -22,7 +22,7 @@ trigger.addEventListener('click', evt => {
 scrim.addEventListener('click', function (evt) {
   if (evt.target === this) {
     modal.classList.remove('active')
-    main.classList.remove('blur')
+    content.classList.remove('blur')
     scrim.classList.remove('active')
   }
 })

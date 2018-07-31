@@ -1,22 +1,19 @@
 body {
-  display: flex;
-  flex-direction: column;
   margin: 0;
 }
 
-header, footer {
-  padding: 4px;
-}
-
-article {
-  padding: 6px 6px 0;
+.content {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
 }
 
 header, footer {
-  font-family: monospace;
-  font-size: 24px;
   background: #f00;
   color: #fff;
+  font-family: monospace;
+  font-size: 24px;
+  padding: 4px;
 }
 
 main {
@@ -62,6 +59,7 @@ article {
   flex-shrink: 0;
   flex-basis: 100vw;
   overflow-y: scroll;
+  padding: 6px 6px 0;
 }
 
 article > p:first-child {
@@ -90,7 +88,7 @@ article > p {
 }
 
 #modal {
-  box-shadow: 0 2px 24px -2px black;
+  box-shadow: 0 0 24px -2px black;
   background: red;
   color: white;
   position: fixed;
@@ -123,7 +121,7 @@ article > p {
   bottom: 100vh;
 }
 
-main.blur {
+.content.blur {
   filter: blur(2px)
 }
 
