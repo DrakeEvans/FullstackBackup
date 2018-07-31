@@ -19,13 +19,23 @@ main {
   font-family: sans-serif;
   display: flex;
   flex: 1;
+  transition: filter 0.2s;
+  overflow-x: hidden;
 }
 
 aside {
   display: flex;
   flex-direction: column;
-  flex: 0 0 125px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 0;
+  overflow-x: hidden;
   margin-right: 8px;
+  transition: flex-basis 0.4s;
+}
+
+aside.open {
+  flex-basis: 250px;
 }
 
 aside > a {
@@ -39,7 +49,8 @@ aside > a:not(:first-of-type) {
 }
 
 article {
-  flex: 6;
+  flex-shrink: 0;
+  flex-basis: 100vw;
   overflow-y: scroll;
 }
 
@@ -76,7 +87,7 @@ article > p:first-child {
   top: 50vh;
   left: 50vw;
   transform: translate(-50%, 100vh);
-  transition: transform 0.4s ease-in-out;
+  transition: transform 0.2s ease;
 }
 
 #modal.active {
@@ -91,10 +102,11 @@ article > p:first-child {
   left: 0;
   background: rgba(0, 0, 0, 0.6);
   z-index: 1000;
+  transition: 0.2s all;
 }
 
 .scrim:not(.active) {
-  display: none;
+  bottom: 100vh;
 }
 
 main.blur {
@@ -113,33 +125,47 @@ header {
 .burger {
   box-sizing: border-box;
   height: 48px;
-  width: 48px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  padding: 4px;
   margin-right: 12px;
+  position: relative;
+  width: 48px;
 }
 
 .burger span {
-  position: relative;
+  display: block;
+  position: absolute;
   height: 4px;
+  width: 36px;
   background: white;
   border-radius: 2px;
   transition: 0.2s;
+  left: 6px;
+  right: 6px;
 }
 
-.burger.open span:first-child {
-  top: 12px;
-  transform: rotate(45deg)
+.burger span:nth-child(1) {
+  top: 14px;
+}
+
+.burger span:nth-child(2) {
+  top: 22px;
+}
+
+.burger span:nth-child(3) {
+  top: 30px;
+}
+
+.burger.open span:nth-child(1) {
+  top: 22px;
+  transform: rotate(45deg);
 }
 
 .burger.open span:nth-child(2) {
-  visibility: hidden;
+  left: 24px;
+  right: 24px;
   width: 0;
 }
 
-.burger.open span:last-child {
-  bottom: 15px;
-  transform: rotate(-45deg)
+.burger.open span:nth-child(3) {
+  top: 22px;
+  transform: rotate(-45deg);
 }
