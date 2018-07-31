@@ -82,3 +82,64 @@ article > p:first-child {
 #modal.active {
   transform: translate(-50%, -50%)
 }
+
+.scrim {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1000;
+}
+
+.scrim:not(.active) {
+  display: none;
+}
+
+main.blur {
+  filter: blur(2px)
+}
+
+header {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  font-size: 36px;
+}
+
+.burger {
+  box-sizing: border-box;
+  height: 48px;
+  width: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 4px;
+  margin-right: 12px;
+}
+
+.burger span {
+  position: relative;
+  height: 4px;
+  background: white;
+  border-radius: 2px;
+  transition: 0.2s;
+}
+
+.burger.open span:first-child {
+  top: 12px;
+  transform: rotate(45deg)
+}
+
+.burger.open span:nth-child(2) {
+  visibility: hidden;
+  width: 0;
+}
+
+.burger.open span:last-child {
+  bottom: 15px;
+  transform: rotate(-45deg)
+}
