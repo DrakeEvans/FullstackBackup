@@ -4,8 +4,12 @@ body {
   margin: 0;
 }
 
-main, header, footer {
+header, footer {
   padding: 4px;
+}
+
+article {
+  padding: 6px 6px 0;
 }
 
 header, footer {
@@ -24,24 +28,30 @@ main {
 }
 
 aside {
+  background: #0ad;
   display: flex;
   flex-direction: column;
   flex-grow: 0;
   flex-shrink: 0;
   flex-basis: 0;
   overflow-x: hidden;
-  margin-right: 8px;
   transition: flex-basis 0.4s;
+  padding-top: 6px;
 }
 
 aside.open {
   flex-basis: 250px;
+  margin-right: 8px;
+  box-shadow: 0px 0px 18px 1px #038;
 }
 
 aside > a {
-  background: #08f;
+  background: #038;
+  color: white;
+  font-weight: 500;
   text-decoration: none;
-  padding: 4px;
+  padding: 4px 8px;
+  margin: 0 6px;
 }
 
 aside > a:not(:first-of-type) {
@@ -102,7 +112,7 @@ article > p:first-child {
   left: 0;
   background: rgba(0, 0, 0, 0.6);
   z-index: 1000;
-  transition: 0.2s all;
+  transition: 0.1s all;
 }
 
 .scrim:not(.active) {
