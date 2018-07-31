@@ -183,7 +183,9 @@ Algorithms - Complexity & Sorting, Node, Express, SQL, Postgres
 #### Day 2
 
 ##### Node Introduction & Asynchronousity
-  * [Node Lecture](https://youtu.be/q7vZb2X_7kk)
-  * [Asyncronous Code](https://youtu.be/Jg4Uwzg0gho)
+  * [📺 Node Lecture](https://youtu.be/q7vZb2X_7kk)
+  * [📺 Asyncronous Code](https://youtu.be/Jg4Uwzg0gho)
 
-
+##### Express
+  * [📺 Intro to Express - 101](https://youtu.be/nWS530nP4wA)
+  * [📺 Express Expanded - 201](https://youtu.be/g2uFM5M9JT8)
