@@ -189,3 +189,7 @@ Algorithms - Complexity & Sorting, Node, Express, SQL, Postgres
 ##### Express
   * [📺 Intro to Express - 101](https://youtu.be/nWS530nP4wA)
   * [📺 Express Expanded - 201](https://youtu.be/g2uFM5M9JT8)
+
+##### Homework / Review
+  * [📺 Review Video](https://www.youtube.com/watch?v=UZ5MO-5a2yI)
+  * [🎧 OPTIONAL - Tech'd Out Episode 8 - Servers and The Cloud (or you can watch in order) ](https://anchor.fm/techdout/episodes/8--Servers-and-The-Cloud-Amazon-Secretly-Holds-the-Internet-e1jbhf)
